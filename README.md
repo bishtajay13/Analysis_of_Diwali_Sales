@@ -7,6 +7,6 @@ The objective of this analysis is to conduct an in-depth Exploratory Data Analys
 
 ### Methodology:
 
->> Data Cleaning and Processing: Utilized Pandas for comprehensive data cleaning and preprocessing.
->> 
->>Data Visualization: Employed Seaborn for creating insightful graphs and plots, and GeoPandas for visualizing geographic data and market insights.
+1. Data Cleaning and Processing: Utilized Pandas for comprehensive data cleaning and preprocessing.
+
+2. Data Visualization: Employed Seaborn for creating insightful graphs and plots, and GeoPandas for visualizing geographic data and market insights.
